@@ -18,6 +18,10 @@
     "@angular/platform-browser": "^17.2.0",
     "@angular/platform-browser-dynamic": "^17.2.0",
     "@angular/router": "^17.2.0",
+    "@pythnetwork/price-service-client": "^1.9.0",
+    "@pythnetwork/pyth-solana-receiver": "^0.8.0",
+    "@solana/web3.js": "^1.95.0",
+    "primeng": "^17.18.4",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
